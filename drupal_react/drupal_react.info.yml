@@ -1,0 +1,9 @@
+name: Drupal React
+type: module
+description: Reaction entity for adding reaction to any entity type.
+package: drupal_react
+core_version_requirement: ^9
+
+version: 1.0
+project: drupal_react
+datestamp: 1630257439
